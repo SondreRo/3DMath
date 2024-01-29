@@ -1,0 +1,11 @@
+﻿  Testing.cpp
+D:\School\Matte3\09.01\Testing\Testing.cpp(56,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\School\Matte3\09.01\Testing\Testing.cpp(57,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\School\Matte3\09.01\Testing\Testing.cpp(58,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\School\Matte3\09.01\Testing\Testing.cpp(93,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\School\Matte3\09.01\Testing\Testing.cpp(94,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\School\Matte3\09.01\Testing\Testing.cpp(95,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\School\Matte3\09.01\Testing\Testing.cpp(104,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\School\Matte3\09.01\Testing\Testing.cpp(136,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\School\Matte3\09.01\Testing\Testing.cpp(146,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Testing.vcxproj -> D:\School\Matte3\09.01\Testing\x64\Debug\Testing.exe
